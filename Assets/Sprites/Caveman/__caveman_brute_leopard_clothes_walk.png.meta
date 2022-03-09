@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: c73e1b194a02cc54e98e53bd3f707cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -647753881017452435
+    second: __caveman_brute_leopard_clothes_walk_0
+  - first:
+      213: -7152107108810743270
+    second: __caveman_brute_leopard_clothes_walk_1
+  - first:
+      213: 7056581596882889926
+    second: __caveman_brute_leopard_clothes_walk_2
+  - first:
+      213: -206729290906412393
+    second: __caveman_brute_leopard_clothes_walk_3
+  - first:
+      213: 2894227333977530819
+    second: __caveman_brute_leopard_clothes_walk_4
+  - first:
+      213: -555638980660839683
+    second: __caveman_brute_leopard_clothes_walk_5
+  - first:
+      213: -2367094513801442021
+    second: __caveman_brute_leopard_clothes_walk_6
+  - first:
+      213: 3491883965872768096
+    second: __caveman_brute_leopard_clothes_walk_7
+  - first:
+      213: 2296740940091182162
+    second: __caveman_brute_leopard_clothes_walk_8
+  - first:
+      213: 4721002179612635670
+    second: __caveman_brute_leopard_clothes_walk_9
+  - first:
+      213: -1462100396843789186
+    second: __caveman_brute_leopard_clothes_walk_10
+  - first:
+      213: 2782965281634644640
+    second: __caveman_brute_leopard_clothes_walk_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2060
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f214f647b207f0800000000000000
+      internalID: -647753881017452435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_1
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2060
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122acf5a7c9ebc90800000000000000
+      internalID: -7152107108810743270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_2
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2060
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc63c233930ee160800000000000000
+      internalID: 7056581596882889926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_3
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2060
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adad22ecc812df0800000000000000
+      internalID: -206729290906412393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e4fc0d6c5a2820800000000000000
+      internalID: 2894227333977530819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1030
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab95e7a49f948f0800000000000000
+      internalID: -555638980660839683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1030
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc613c414662fd0800000000000000
+      internalID: -2367094513801442021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_7
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1030
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648ab657f9a57030800000000000000
+      internalID: 3491883965872768096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4b3367b9afdf10800000000000000
+      internalID: 2296740940091182162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f7ab287e548140800000000000000
+      internalID: 4721002179612635670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_10
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741b248f6395bbe0800000000000000
+      internalID: -1462100396843789186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __caveman_brute_leopard_clothes_walk_11
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 1380
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5797, y: 0.1067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2f31acd241f9620800000000000000
+      internalID: 2782965281634644640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
